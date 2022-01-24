@@ -15,20 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 My name is Joyce Annie George. I am a software engineer in Bay Area. 
+😄 My name is Joyce Annie George. I work as Machine Learning Engineer at Omdena. 
 I completed my Masters in CS from Santa Clara University.
 
-🔭 I’m currently working as a Technical Writer@Analytics Vidhya. 
-  
-  You can view my recent work [here](https://medium.com/@joyceannie111).
 
 📫 Contact Details:     
         LinkedIn: https://www.linkedin.com/in/joyce-annie-george/            
-        Email: joyceannie111@gmail.com       
-
-  
-
-
-
-
-
+        Email: joyceannie111@gmail.com     
+        Blog: https://medium.com/@joyceannie111
