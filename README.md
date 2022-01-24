@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 My name is Joyce Annie George. I work as Machine Learning Engineer at Omdena. 
-I completed my Masters in CS from Santa Clara University.
+😄 My name is Joyce Annie George.      
+🔭 Current Role: Machine Learning Engineer, Omdena.       
+🌱 Education: MSCS, Santa Clara University.
 
 
 📫 Contact Details:     
