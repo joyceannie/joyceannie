@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 😄 My name is Joyce Annie George.      
-🔭 Current Role: Machine Learning Engineer, Omdena.       
+🔭 Current Role: Machine Learning Engineer, Matt Young Media.       
 🌱 Education: MSCS, Santa Clara University.
 
 
